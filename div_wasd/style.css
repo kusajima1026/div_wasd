@@ -1,0 +1,26 @@
+body{
+    text-align: right;
+}
+
+#box00{
+    background-color: #000;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+#box00a{
+    width: 100px;
+    height: 100px;
+}
+
+#msg{
+    margin: 0;
+    text-align: center;
+    padding-top: 2em;
+    color: white;
+}
+
+button{
+    text-align: center;
+}
